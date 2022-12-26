@@ -91,3 +91,93 @@ nav{
 .color{
     color: #35B8BE;
 }
+.main_middle h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.main_middle_pod1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 190px;
+}
+.main_middle_pod1 img{
+    margin-bottom: 50px;
+    width: 307px;
+}
+.main_middle_pod1 .sp{
+    color: #08090A;
+
+}
+.main_middle_pod1 p{
+    color: #546285;
+    text-align: center;
+    width: 307px;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.top p{
+    color: #546285;
+    text-align: center;
+    width: 460px;
+    margin-bottom: 50px;
+}
+.butons{
+    display: flex;
+    justify-content: space-between;
+    width: 406px;
+}
+.butons a{
+    border: 1px solid rgba(97, 114, 131, 0.5);
+    border-radius: 6px; 
+    text-decoration: none;
+    padding: 10px;
+    color: #222222;
+}
+.eating{
+    display: flex;
+    width: 580px;
+    padding: 36px 26px 26px 26px;
+    margin-bottom:20px;
+    border: 1px solid rgba(53, 184, 190, 0.15);
+    border-radius: 6px;
+}
+.eating_img{
+    margin-right: 34px;
+}
+.eating_text{
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between;
+}
+.eating_text_top{
+    display: flex;
+    justify-content: space-between;
+}
+.eating_text p{
+    width: 351px;
+    color: #546285;
+}
+#t_inp{
+    width: 25px;
+    padding: 10px;
+    border: 1px solid #DDDDDD;
+    border-radius: 6px;
+    text-align: center;
+}
+#buttons{
+    padding: 10px 12px;
+    background: #35B8BE;
+    border: none;
+    border-radius: 6px;
+}
+.eat{
+    display: flex;
+    justify-content: center;
+}
+.sec1{
+    margin-right: 20px;
+}
