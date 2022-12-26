@@ -177,7 +177,36 @@ nav{
 .eat{
     display: flex;
     justify-content: center;
+    margin-bottom: 60px;
 }
 .sec1{
     margin-right: 20px;
+}
+.main_middle_pod2_button{
+    display: flex;
+    justify-content: center;
+}
+.main_middle_pod2_button a{
+    background:#35B8BE;
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 35px;
+    border-radius: 6px;
+}
+.main_bottom .main_to_article1 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 115px;
+}
+.main_to_article_text1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.main_to_article_text1 p{
+    margin: 27px 0 72px 0;
+    width: 475px;
+}
+.background_color{
+    background: #F5FBFC;
 }
